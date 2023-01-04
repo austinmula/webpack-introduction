@@ -6,7 +6,8 @@ body {
   font-size: 14px;
   background: $primary-color;
   color: #f3f3f3;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .container {
@@ -16,5 +17,6 @@ body {
   min-height: 100vh;
   h3 {
     font-size: 40px;
+    font-weight: 100;
   }
 }
